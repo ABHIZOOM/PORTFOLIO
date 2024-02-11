@@ -276,9 +276,8 @@ transition: 0.3s ease-in-out;
     
 
 }
-.service-box{
-    overflow: scroll;
-}
+
+
 .service-box i{
 font-size: 7rem;
 color: var(--main-color);
